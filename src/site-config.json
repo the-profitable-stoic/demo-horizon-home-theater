@@ -1,0 +1,516 @@
+{
+  "business": {
+    "name": "Horizon Home Theater",
+    "phone": "555-hom-r90",
+    "category": "home-theater",
+    "city": "Austin",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "home-theater-trust-navy",
+      "categoryGroup": "home-theater",
+      "name": "Trust Navy",
+      "recipeFile": "home-theater/trust-navy.astro",
+      "colors": {
+        "primary": "#4338CA",
+        "primaryDark": "#312E81",
+        "primaryLight": "#d0cdf2",
+        "secondary": "#3930ac",
+        "accent": "#8B5CF6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#4338CA",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "home-theater/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Immersive Home Theaters in Austin",
+      "heroSubline": "Custom-designed entertainment spaces built for Texas living. From cozy bungalows to modern homes, we transform rooms into cinematic escapes.",
+      "aboutTitle": "Why Horizon Home Theater",
+      "aboutText": [
+        "Founded in 2011, Horizon Home Theater began with a passion for bringing the magic of cinema into Austin homes. Our founder, a former recording studio engineer, combined audio precision with smart home technology to create truly immersive experiences.",
+        "We approach every project as a unique artistic and technical challenge. Using only equipment that stands up to Texas heat and humidity, we design systems that perform flawlessly year-round while blending seamlessly with your home's architecture.",
+        "As active members of the Austin tech community, we're proud to support local music and film festivals. Our team volunteers annually for youth STEM programs at the Thinkery and Austin Public Library."
+      ],
+      "valueProps": [
+        {
+          "title": "Texas-Tested Gear",
+          "description": "We only install equipment rated for continuous operation in 100°F+ temperatures, with special attention to humidity control."
+        },
+        {
+          "title": "Space-Optimized Designs",
+          "description": "From historic bungalows to modern open-concept homes, we create theater solutions that work with your existing architecture."
+        },
+        {
+          "title": "Future-Ready Systems",
+          "description": "Every installation includes capacity for emerging formats like 12K and object-based audio, protecting your investment."
+        },
+        {
+          "title": "Local Service Promise",
+          "description": "Our Austin-based technicians arrive in under 48 hours for service calls across the metro area."
+        }
+      ],
+      "ctaHeadline": "Ready for Your Premier Home Theater?",
+      "ctaSubline": "Schedule a free consultation to discuss your vision. Evening and weekend appointments available."
+    },
+    "services": [
+      {
+        "slug": "custom-home-theater-design",
+        "name": "Custom Home Theater Design",
+        "shortDescription": "Complete turnkey theater rooms tailored to your space and viewing preferences.",
+        "description": "Our signature service transforms basements, spare rooms, or dedicated spaces into premium entertainment environments. We begin with detailed room analysis, measuring for optimal speaker placement and screen positioning specific to your room's dimensions and construction materials common in Central Texas homes.\n\nFor historic Austin properties with plaster walls or mid-century modern homes with open layouts, we develop specialized acoustic treatments that preserve architectural integrity. Each design includes climate-controlled equipment cabinets to combat summer heat, using materials that prevent resonance from nearby thunderstorms.\n\nFrom the initial concept to final calibration, we handle everything - structural modifications, specialized wiring for limestone foundations, and even custom millwork matching your home's trim details.",
+        "process": [
+          "Step 1: In-home consultation with 3D modeling of your space",
+          "Step 2: Custom equipment package selection based on room size and usage",
+          "Step 3: Acoustic treatment design for Central Texas building materials",
+          "Step 4: Installation with precision calibration for your seating positions"
+        ],
+        "benefits": [
+          "True 4K/8K capable infrastructure",
+          "Sound isolation for shared-wall homes",
+          "Texas-specific cooling solutions",
+          "Seamless smart home integration"
+        ],
+        "faq": [
+          {
+            "question": "How do you handle the unique acoustics of Austin's limestone homes?",
+            "answer": "We use specialized low-frequency traps and angled diffusers that counteract the reflective properties of stone walls, with vibration-damping mounts that prevent rattle during intense action scenes."
+          },
+          {
+            "question": "Can you work with my historic home's existing architecture?",
+            "answer": "Absolutely. We've designed theaters in 1920s bungalows and mid-century moderns, creating solutions that preserve original moldings while hiding modern technology in custom cabinetry."
+          },
+          {
+            "question": "What provisions do you make for Texas weather?",
+            "answer": "All equipment racks include active cooling systems rated for continuous 100°F operation, with whole-home surge protection for our intense thunderstorms."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-entertainment-systems",
+        "name": "Outdoor Entertainment Systems",
+        "shortDescription": "Weatherproof audio-visual solutions for Austin's outdoor living spaces.",
+        "description": "Central Texas' long outdoor living season demands durable, high-performance systems. We design outdoor entertainment setups that withstand both summer heat and occasional winter storms, using marine-grade speakers and sun-resistant displays.\n\nFor pools and patios, we implement specialized audio zoning that maintains clarity over splashing water and AC unit noise. Our concealed wiring methods protect against rodents common in Austin's greenbelts, with all connections rated for flood zone installation.\n\nWe coordinate with local landscapers to integrate speakers into existing hardscaping, creating invisible systems that disappear when not in use. Solutions range from simple background music setups to full outdoor theaters with retractable screens designed for Hill Country sunset viewing.",
+        "process": [
+          "Step 1: Site evaluation including sun exposure and noise sources",
+          "Step 2: Equipment selection based on exposure levels",
+          "Step 3: Professional installation with flood-proof wiring",
+          "Step 4: Tuning for optimal performance at different times of day"
+        ],
+        "benefits": [
+          "100°F+ rated components",
+          "Insect/rodent resistant wiring",
+          "Glare-optimized display placement",
+          "Harmony with outdoor lighting"
+        ],
+        "faq": [
+          {
+            "question": "How do you prevent sun damage to outdoor TVs?",
+            "answer": "We only use commercial-grade displays with anti-glare coatings and active cooling, mounted in locations that receive afternoon shade with optional motorized sunshades."
+          },
+          {
+            "question": "Can the system handle pool parties?",
+            "answer": "Our poolside audio solutions use directional speakers that focus sound where needed while minimizing neighbor disturbance, with volume limiters for compliance with Austin noise ordinances."
+          }
+        ]
+      },
+      {
+        "slug": "whole-home-audio",
+        "name": "Whole-Home Audio",
+        "shortDescription": "Seamless music distribution throughout your Austin home.",
+        "description": "Create perfect audio ambiance in every room with our invisible sound systems designed for Central Texas lifestyles. We specialize in solutions for Austin's varied architecture - from historic homes with plaster walls to modern open-concept designs.\n\nFor limestone construction common in Hill Country estates, we use specialized vibration-damping mounts. In newer subdivisions with shared walls, we implement sound containment measures that keep your music private. Every system includes robust WiFi backbones to handle multiple streaming sources simultaneously.\n\nControl options range from intuitive keypads to full voice integration with existing smart home systems. We can even sync your audio with circadian lighting for natural wake-up routines or set up whole-house alerts for severe weather warnings.",
+        "process": [
+          "Step 1: Architectural analysis and listening position mapping",
+          "Step 2: Equipment selection based on room usage",
+          "Step 3: Professional installation with minimal invasiveness",
+          "Step 4: Room-by-room tuning for balanced sound"
+        ],
+        "benefits": [
+          "Preserves architectural integrity",
+          "Expansion-ready infrastructure",
+          "Local weather alerts integration",
+          "Energy-efficient operation"
+        ],
+        "faq": [
+          {
+            "question": "How disruptive is installation in an existing home?",
+            "answer": "We use innovative fishing techniques to route wires through finished spaces, with typical installations completed in 1-2 days with minimal wall repair needed."
+          },
+          {
+            "question": "Can the system accommodate Austin musicians?",
+            "answer": "Absolutely. We offer high-resolution audio options with studio-grade DACs, perfect for local artists wanting pristine playback of their recordings."
+          }
+        ]
+      },
+      {
+        "slug": "media-room-optimization",
+        "name": "Media Room Optimization",
+        "shortDescription": "Enhanced performance for existing entertainment spaces.",
+        "description": "Transform your underperforming media space into a reference-quality viewing environment. We analyze and upgrade every component - from display calibration to acoustic treatments - specifically addressing Central Texas' environmental challenges.\n\nFor homes experiencing intermittent audio issues during humid months, we implement moisture-resistant connections. We recalibrate systems seasonally to account for Austin's dramatic humidity swings, ensuring consistent performance year-round.\n\nOur optimization process includes thorough equipment health checks, replacing marginal components before they fail during critical viewing. For multi-use spaces common in Austin condos, we create custom presets that instantly transform living areas into theater-quality environments.",
+        "process": [
+          "Step 1: Comprehensive system evaluation",
+          "Step 2: Identification of performance bottlenecks",
+          "Step 3: Targeted upgrades and acoustic treatments",
+          "Step 4: Precision calibration for current conditions"
+        ],
+        "benefits": [
+          "Humidity-resistant connections",
+          "Seasonal recalibration included",
+          "Equipment lifespan extension",
+          "Instant room transformation"
+        ],
+        "faq": [
+          {
+            "question": "Why does my system sound different in summer?",
+            "answer": "Austin's humidity changes dramatically affect sound propagation. We adjust crossover settings and equalization to compensate for these seasonal variations."
+          },
+          {
+            "question": "Can you improve my existing setup without replacing everything?",
+            "answer": "Often yes. Strategic speaker repositioning, acoustic panels, and professional calibration can yield dramatic improvements with your current equipment."
+          }
+        ]
+      },
+      {
+        "slug": "smart-home-integration",
+        "name": "Smart Home Integration",
+        "shortDescription": "Unified control for entertainment and home systems.",
+        "description": "Create seamless interactions between your entertainment systems and other smart home features. We design control solutions that account for Austin's unique infrastructure challenges - from managing whole-home audio during rolling blackouts to integrating with local energy monitoring programs.\n\nOur systems provide one-touch 'Texas modes' that automatically adjust lighting, shades, and climate control when temperatures exceed 100°F. For security-conscious homeowners, we implement discrete camera integration that doesn't compromise aesthetic appeal.\n\nWe specialize in preserving functionality during internet outages common in growing Austin suburbs, with robust local control options. Every installation includes thorough client training at our Austin showroom, with lifetime support from our local tech team.",
+        "process": [
+          "Step 1: Comprehensive needs assessment",
+          "Step 2: System architecture design",
+          "Step 3: Equipment programming and testing",
+          "Step 4: Client training and documentation"
+        ],
+        "benefits": [
+          "Grid-outage resilience",
+          "Energy-saving automations",
+          "Local support team",
+          "Future expansion ready"
+        ],
+        "faq": [
+          {
+            "question": "How do you handle Austin's frequent internet outages?",
+            "answer": "Our systems maintain critical functions locally, with battery-backed controllers that keep your lighting and security operational even during extended outages."
+          },
+          {
+            "question": "Can I control everything from my phone?",
+            "answer": "Yes, with secure remote access that doesn't require complex port forwarding - crucial for Austin's high rate of attempted smart home breaches."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Mark T.",
+        "rating": 5,
+        "service": "Custom Home Theater Design",
+        "text": "Horizon transformed our Tarrytown basement into an incredible Dolby Atmos theater. They custom-built acoustic panels to match our 1950s wood paneling and installed a cooling system that keeps everything running perfectly even during 105°F days. The attention to detail was remarkable - they even repositioned our seating to avoid a limestone wall resonance we didn't know existed.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Lisa C.",
+        "rating": 5,
+        "service": "Outdoor Entertainment Systems",
+        "text": "Our Barton Springs backyard is now the ultimate entertainment spot thanks to Horizon. The weatherproof speakers disappear into our landscaping but sound amazing. They designed special mounts that survived last year's hail storm with zero damage. The team understood exactly how to position everything to avoid neighbor complaints while still getting great sound by the pool.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "James R.",
+        "rating": 5,
+        "service": "Whole-Home Audio",
+        "text": "Living in a historic Clarksville home, we were worried about installing modern tech. Horizon created an invisible whole-house system using our existing closets for equipment, with vintage-style controls that match our home's character. The sound is flawless in every room, and they tuned it to compensate for our thick plaster walls. Game changer for entertaining.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Media Room Optimization",
+        "text": "Our Westlake media room never sounded right until Horizon's team analyzed it. They discovered our limestone foundation was causing bass issues and installed specialized damping. The new acoustic treatments make dialogue crystal clear without being obtrusive. Now our family actually uses the room instead of just watching TV in the bedroom.",
+        "date": "2024-12-05"
+      },
+      {
+        "name": "David M.",
+        "rating": 5,
+        "service": "Smart Home Integration",
+        "text": "Horizon unified all our disparate smart devices into one intuitive system. Their 'Texas mode' automatically closes our shades and prioritizes AC when it hits 100°F, which has noticeably lowered our energy bills. The best part? Everything still works during Austin's frequent internet outages thanks to their local control design.",
+        "date": "2024-11-18"
+      },
+      {
+        "name": "Elena S.",
+        "rating": 5,
+        "service": "Custom Home Theater Design",
+        "text": "As filmmakers, we had extremely high standards for our Hyde Park home theater. Horizon delivered beyond expectations. The color calibration is reference quality, and they custom-tuned the audio to match our mixing studio. Even during July heat waves, the equipment stays cool and quiet. Worth every penny for true cinephiles.",
+        "date": "2024-10-22"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Premium Home Theaters in Austin, TX | Horizon Home Theater",
+        "description": "Custom home theater design and installation serving Austin, Round Rock, and Cedar Park. Texas-built solutions for our unique climate and architecture."
+      },
+      "about": {
+        "title": "About Our Austin Home Theater Company | Horizon",
+        "description": "Learn why Horizon Home Theater has been Austin's preferred custom entertainment installer since 2011. Local expertise meets cutting-edge technology."
+      },
+      "services": {
+        "title": "Home Theater Services in Austin, TX | Horizon",
+        "description": "From outdoor audio to media room optimization, we provide complete home theater solutions designed for Central Texas homes and lifestyles."
+      },
+      "contact": {
+        "title": "Contact Horizon Home Theater in Austin, TX",
+        "description": "Ready to transform your space? Schedule a consultation with our Austin home theater experts. Serving all of Travis and Williamson Counties."
+      },
+      "reviews": {
+        "title": "Austin Home Theater Reviews | Horizon Client Experiences",
+        "description": "See what Austin homeowners say about their custom entertainment systems. Real projects in Tarrytown, Westlake, and throughout Central Texas."
+      },
+      "service-areas": {
+        "title": "Home Theater Service Areas | Austin Metro | Horizon",
+        "description": "Professional home theater installation serving Austin, Round Rock, Cedar Park, Georgetown, Pflugerville and surrounding communities."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Round Rock",
+        "slug": "round-rock-tx",
+        "state": "TX",
+        "content": "Horizon Home Theater proudly serves Round Rock, TX, a thriving city with a population of around 240,000. Known for its family-friendly subdivisions built primarily in the 1990s and 2000s, Round Rock offers the perfect setting for homeowners looking to enhance their entertainment spaces. With scorching summers often exceeding 100°F, our premium home theater installations provide a cool escape for families to enjoy movies, sports, and gaming in comfort. Whether you're upgrading an existing media room or designing a new home theater, our expert team ensures seamless integration tailored to your home's layout.",
+        "localContext": "Round Rock features spacious suburban homes with modern layouts, ideal for custom home theater setups.",
+        "nearbyAreas": [
+          "Austin",
+          "Cedar Park",
+          "Pflugerville"
+        ]
+      },
+      {
+        "city": "Cedar Park",
+        "slug": "cedar-park-tx",
+        "state": "TX",
+        "content": "Cedar Park, TX, with its population of approximately 82,000, is a rapidly growing suburban community that Horizon Home Theater is proud to serve. The city's expansion in the 2000s has brought an influx of modern homes perfect for state-of-the-art home theater installations. Summers here are intensely hot, often surpassing 100°F, making indoor entertainment a necessity. Our team specializes in creating immersive home theater experiences, whether you're looking for a high-end Dolby Atmos setup or a cozy media room for family movie nights.",
+        "localContext": "Cedar Park's newer suburban homes offer ample space for cutting-edge home theater designs.",
+        "nearbyAreas": [
+          "Round Rock",
+          "Leander",
+          "Austin"
+        ]
+      },
+      {
+        "city": "Georgetown",
+        "slug": "georgetown-tx",
+        "state": "TX",
+        "content": "Horizon Home Theater extends its services to Georgetown, TX, a charming city with a population of about 75,000. Known for its picturesque Victorian-style downtown and historic homes, Georgetown blends old-world charm with modern living. Despite the hot summers exceeding 100°F, our home theater solutions provide a refreshing retreat for residents. Whether you're restoring a historic home or upgrading a newer build, our team ensures your home theater complements the unique character of your property while delivering top-tier audiovisual performance.",
+        "localContext": "Georgetown's mix of historic and contemporary homes allows for versatile home theater integrations.",
+        "nearbyAreas": [
+          "Round Rock",
+          "Liberty Hill",
+          "Cedar Park"
+        ]
+      },
+      {
+        "city": "Pflugerville",
+        "slug": "pflugerville-tx",
+        "state": "TX",
+        "content": "Pflugerville, TX, with a population of around 73,000, is a rapidly developing city known for its affordable newer construction homes. Horizon Home Theater is excited to serve this vibrant community, where homeowners seek modern entertainment solutions. The hot summers, often exceeding 100°F, make indoor entertainment spaces highly desirable. Our team specializes in designing and installing home theaters that fit seamlessly into Pflugerville's newer homes, offering everything from compact media rooms to expansive theater setups with the latest technology.",
+        "localContext": "Pflugerville's newer homes provide a blank canvas for custom home theater installations.",
+        "nearbyAreas": [
+          "Round Rock",
+          "Austin",
+          "Hutto"
+        ]
+      },
+      {
+        "city": "Leander",
+        "slug": "leander-tx",
+        "state": "TX",
+        "content": "Horizon Home Theater is proud to serve Leander, TX, a fast-growing suburb with a population of approximately 60,000. Known for its family-friendly neighborhoods and newer developments, Leander is an ideal market for home theater installations. With summers frequently surpassing 100°F, residents appreciate the comfort of a high-quality indoor entertainment space. Our team works closely with homeowners to create customized theaters that cater to their lifestyle, whether it's a sleek minimalist design or a fully immersive cinematic experience.",
+        "localContext": "Leander's expanding suburban landscape offers great opportunities for home theater projects.",
+        "nearbyAreas": [
+          "Cedar Park",
+          "Liberty Hill",
+          "Round Rock"
+        ]
+      },
+      {
+        "city": "Hutto",
+        "slug": "hutto-tx",
+        "state": "TX",
+        "content": "Hutto, TX, a charming small city with a population of around 30,000, is another community Horizon Home Theater proudly serves. Known for its affordable housing and tight-knit community, Hutto is perfect for homeowners looking to add a home theater to their space. The hot summers, often exceeding 100°F, make indoor entertainment a priority. Our team specializes in designing home theaters that fit Hutto's cozy, family-oriented vibe, whether it's a compact media room or a full basement theater.",
+        "localContext": "Hutto's affordable homes and community spirit make it a great place for home theater installations.",
+        "nearbyAreas": [
+          "Round Rock",
+          "Pflugerville",
+          "Taylor"
+        ]
+      },
+      {
+        "city": "Liberty Hill",
+        "slug": "liberty-hill-tx",
+        "state": "TX",
+        "content": "Liberty Hill, TX, a smaller but rapidly growing city with a population of around 5,000, is part of Horizon Home Theater's service area. Known for its rural charm and expanding suburban developments, Liberty Hill offers unique opportunities for home theater projects. The hot summers, frequently exceeding 100°F, make indoor entertainment spaces highly appealing. Our team excels at creating custom home theaters that blend seamlessly with Liberty Hill's mix of rustic and modern homes, ensuring an exceptional viewing experience.",
+        "localContext": "Liberty Hill's blend of rural and suburban homes allows for creative home theater designs.",
+        "nearbyAreas": [
+          "Georgetown",
+          "Leander",
+          "Cedar Park"
+        ]
+      },
+      {
+        "city": "Taylor",
+        "slug": "taylor-tx",
+        "state": "TX",
+        "content": "Taylor, TX, a historic city with a population of around 18,000, is another community Horizon Home Theater serves. Known for its charming downtown and mix of historic and newer homes, Taylor provides a unique backdrop for home theater installations. The scorching summers, often exceeding 100°F, make indoor entertainment a must. Our team specializes in integrating modern home theater technology into Taylor's diverse housing styles, ensuring a perfect balance of aesthetics and performance.",
+        "localContext": "Taylor's historic charm and growing developments create diverse opportunities for home theaters.",
+        "nearbyAreas": [
+          "Hutto",
+          "Round Rock",
+          "Georgetown"
+        ]
+      },
+      {
+        "city": "Brushy Creek",
+        "slug": "brushy-creek-tx",
+        "state": "TX",
+        "content": "Brushy Creek, TX, an unincorporated community near Round Rock with a population of around 25,000, is part of Horizon Home Theater's service area. Known for its well-established neighborhoods and family-friendly atmosphere, Brushy Creek is ideal for home theater installations. The hot summers, often surpassing 100°F, make indoor entertainment spaces highly desirable. Our team excels at creating tailored home theater solutions that fit Brushy Creek's spacious homes, offering everything from sleek media rooms to dedicated theater spaces.",
+        "localContext": "Brushy Creek's mature neighborhoods provide excellent opportunities for home theater projects.",
+        "nearbyAreas": [
+          "Round Rock",
+          "Cedar Park",
+          "Austin"
+        ]
+      },
+      {
+        "city": "Wells Branch",
+        "slug": "wells-branch-tx",
+        "state": "TX",
+        "content": "Wells Branch, TX, a suburban community near Austin with a population of around 12,000, is another area Horizon Home Theater serves. Known for its affordable homes and convenient location, Wells Branch is perfect for homeowners looking to add a home theater. The hot summers, frequently exceeding 100°F, make indoor entertainment a priority. Our team specializes in designing home theaters that maximize space and performance, whether it's a compact setup or a full-scale cinematic experience.",
+        "localContext": "Wells Branch's affordable and accessible homes are ideal for home theater installations.",
+        "nearbyAreas": [
+          "Austin",
+          "Pflugerville",
+          "Round Rock"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "custom-home-theater-design": "/images/service-custom-home-theater-design.webp",
+      "outdoor-entertainment-systems": "/images/service-outdoor-entertainment-systems.webp",
+      "whole-home-audio": "/images/service-whole-home-audio.webp",
+      "media-room-optimization": "/images/service-media-room-optimization.webp",
+      "smart-home-integration": "/images/service-smart-home-integration.webp"
+    },
+    "servicesResponsive": {
+      "custom-home-theater-design": {
+        "src": "/images/service-custom-home-theater-design.webp",
+        "srcset": "/images/service-custom-home-theater-design-400w.webp 400w, /images/service-custom-home-theater-design-800w.webp 800w, /images/service-custom-home-theater-design-1200w.webp 1200w, /images/service-custom-home-theater-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-entertainment-systems": {
+        "src": "/images/service-outdoor-entertainment-systems.webp",
+        "srcset": "/images/service-outdoor-entertainment-systems-400w.webp 400w, /images/service-outdoor-entertainment-systems-800w.webp 800w, /images/service-outdoor-entertainment-systems-1200w.webp 1200w, /images/service-outdoor-entertainment-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-home-audio": {
+        "src": "/images/service-whole-home-audio.webp",
+        "srcset": "/images/service-whole-home-audio-400w.webp 400w, /images/service-whole-home-audio-800w.webp 800w, /images/service-whole-home-audio-1200w.webp 1200w, /images/service-whole-home-audio.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "media-room-optimization": {
+        "src": "/images/service-media-room-optimization.webp",
+        "srcset": "/images/service-media-room-optimization-400w.webp 400w, /images/service-media-room-optimization-800w.webp 800w, /images/service-media-room-optimization-1200w.webp 1200w, /images/service-media-room-optimization.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "smart-home-integration": {
+        "src": "/images/service-smart-home-integration.webp",
+        "srcset": "/images/service-smart-home-integration-400w.webp 400w, /images/service-smart-home-integration-800w.webp 800w, /images/service-smart-home-integration-1200w.webp 1200w, /images/service-smart-home-integration.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
